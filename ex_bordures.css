@@ -1,0 +1,30 @@
+body
+{
+	border : groove 5px #84D4EF;
+}
+
+#d1
+{
+	border : solid 1px red;
+}
+#p1
+{
+	border : inset 5px #84D4EF;
+}
+#p2
+{
+	border : outset 5px #84D4EF;
+}
+
+#d2
+{
+	border : dotted 1px #84D4EF;
+}
+#p3
+{
+	border : dotted 1px #84D4EF;
+}
+#p4
+{
+	border : solid 1px #84D4EF;
+}
